@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="projeto.css" media="screen">
+    <title>formulario</title>
+</head>
+<body>
+   <header>
+       <h1>freeCodeCamp Survey Form</h1>
+       <p><em>You taking to help us impromove the plataform</em></p>
+   </header>
+        
+  
+
+<form>
+    <div class="conteiner">
+   <fieldset class="campo">
+   
+       <div class="campo">
+        <label> Name </label><br>
+        <input type="text" name="name" id="name" placeholder="Enter you name" required>
+       <br> <br>
+      
+       </div>
+
+       <div class="campo">
+       <label>Email</label><br>
+       <input type="email" name="Email" id="email" placeholder="Enter you email" required>
+        <br><br>
+        </div>
+        <div class="campo">
+
+       
+        <label>Age <em>(optional)</em></label><br>
+        <input type="number" name ="age" id="age" placeholder="Age">
+        <br><br>
+        </div>
+        <label for="opções"> Which option best describes your current role?</label> <br>
+        <select id="opções"><br><br>
+            <option selected disabled value=""> Select current role</option><br>
+            <option> student</option>
+            <option>Full time job</option>
+            <option>Full time Learner</option>
+            <option>Preferer not to say</option>
+            <option>other</option>
+        </select>
+        <br><br>
+        
+        <label>Would you recommend freeCodCamp to a friend?</label> <br>
+
+       <label>
+        <input type="radio" name="Devweb" value="Definitiely" checked> Definitiely
+       </label> 
+<br>
+      <label"> 
+          <input type="radio" name="Devweb" value="Maybe" > Maybe
+      </label> 
+<br>
+      <label>
+          <input type="radio" name="Devweb" value="Not sure"> Not sure 
+      </label>
+      <br><br>
+
+      <label for="opcao">What is your favorite fetaure of FreeCodeCamp?</label>
+      <select id="opcao">
+          <option selected disabled value=""> Select an options  </option>
+          <option>Challenges</option>
+          <option>Projects</option>
+          <option>Community</option>
+          <option>Open Source</option>
+      </select>
+      <br><br>
+
+      <label>What  would you like to see improved? <br>(check all that apply)</label><br>
+      <input type="checkbox" name="tecnologia1" id="tecnologia1" value="Front-End Projects ">
+      <label for="tecnologia1">Front-End Projects</label>
+      <br>
+      <input type="checkbox" name="tecnologia2" id="tecnologia2" value="Back-End Projects">
+      <label for="tecnologia2">Back-End Projects</label>
+      <br>
+      <input type="checkbox" name="tecnologia3" id="tecnologia3" value="Data Visualization">
+      <label for="tecnologia3"> Data Visualization</label>
+     <br>
+     <input type="checkbox" name="tecnologias4" id="tecnologia4" value="Challenges" >
+     <label for="tecnologia4">Challenges</label>
+      <br>
+      <input type="checkbox" name="tecnologias5" id="tecnologia5" value="Open Source Community">
+      <label for="tecnologia5"> Open Source Community</label>
+      <br>
+      <input type="checkbox" name="tecnologia6" id="tecnologia6" value="Gitter Help rooms" >
+      <label for="tecnologia6"> Gitter Help rooms</label>
+      <br>
+      <input type="checkbox" name="tecnologia7" id="tecnologia7" value="Videos">
+      <label for="tecnologia7">Videos</label>
+      <br>
+      <input type="checkbox" name="tecnologias8" id="tecnologia8" value="City Meetups">
+      <label for="tecnologias8">City Meetups</label>
+      <br>
+      <input type="checkbox" name="tecnologia9" id="tecnologia9" value="Wiki">
+      <label for="tecnologia9">Wiki</label>
+      <br>
+      <input type="checkbox" name="tecnologia10" id="tecnologia10" value="Forum">
+      <label for="tecnologia10">Forum</label>
+      <br>
+      <input type="checkbox" name="tecnologia11" id="tecnologia11" value="Additional Courses">
+      <label for="tecnologia11">Additional Courses</label>
+      <br><br>
+      <label>Any Comments or Sugegstions</label><br><br>
+      <textarea name="" id="" cols="90" rows="9" placeholder="Enter Your Comment here"></textarea><br><br>
+      <button onclick="eventoClick()" class="botao" type="submit"> <strong>Submit</strong></button>
+      
+   </fieldset>
+
+</form>
+
+</div>
+    <script src="./projeto.js"></script>
+</body>
+</html>
