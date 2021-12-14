@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px; /* esse é o tamanho da letra*/
+    color:white;
+    background-color: #5d5d88;
+    margin-top: 2%;
+ 
+    
+}
+
+
+form{
+    background-color: #2C2C4B;
+    width: 500px;
+}
