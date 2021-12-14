@@ -6,17 +6,53 @@
 
 body{
     
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 25px; /* esse é o tamanho da letra*/
-    color:white;
-    background-color: #5d5d88;
-    margin-top: 2%;
+    font-family:monospace;
+    color:black;
+    background-color:white;
+    margin-top: 15%;
  
+}
+p{
+    padding-bottom: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    text-align: right;
+}
+
+#nome,#senha{
+    padding: 0.2em;
+    height: 30px;
+    width: 300px;
+    border: 1px solid #ddcccc;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    border-radius: 3px;
+}
+
+fieldset{ 
+    background-color:#d1c8c8  ;
+    padding: 100px 100px 100px 100px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    transition: transform 300ms;}
     
-}
 
-
-form{
-    background-color: #2C2C4B;
-    width: 500px;
-}
+    #botao{
+        width: 130px;
+        height: 40px;
+        background:rgb(123, 32, 207);
+        text-align: center;
+        top: 50%;
+        position:relative;
+        display:inline-block;
+        justify-content: center;
+        align-items:center;
+        color: white;
+    }

@@ -5,23 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
+    <link rel="stylesheet" href="login.css" type="text/css" media="screen">
+    <script src="login.js"></script>
 </head>
 <body>
     <fieldset>
         <h1>WELCOME!</h1>
         <P>sign in to your account</P>
 
-        <div class="formulario">
+        
             <form>
-                <label for="Nome">Name</label>
-                <input type="text" id="nome" name="nome" placeholder="Enter you name">
-                <label for="Password">Password</label>
-                <input type="text" name="senha" id="senha" placeholder="Enter Password">
-                <input type="checkbox" name="relembrar" id="relembrar" > 
-                <label for="relembrar">Remenber me?</label>
-                <a href="../pag.redefiniçãoSenha.html/pag. Redefinir senha.html"> Forgot password?</a>
-
-                <button type="button" id="botao"> Sign in -> </button>
+                <div class="formulario">
+                    <label for="Nome">Name</label><br>
+                    <input type="text" id="nome" name="nome" placeholder="Enter you name"><br>
+                    <label for="Password">Password</label><br>
+                    <input type="text" name="senha" id="senha" placeholder="Enter Password"><br>
+                    <div class="botao1">
+                        <input type="checkbox" name="relembrar" id="relembrar" > <br>
+                        <label for="relembrar">Remenber me?</label><br>
+                    </div>
+                   
+                    <a href="../pag.redefiniçãoSenha.html/pag. Redefinir senha.html"> Forgot password?</a><br><br>
+    
+                    <button type="button" id="botao"> Sign in -> </button>
+                </div>
+               
                 
             </form>
         </div>
