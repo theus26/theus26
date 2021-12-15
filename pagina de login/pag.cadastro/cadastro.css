@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    font-family:monospace;
+    color:rgb(255, 255, 255);
+    background-color:white;
+    margin-top: 15%;
+    font-size: 15px;
+ 
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+p{
+    margin-top: 30px;
+    text-align: center;
+}
+
+fieldset{ 
+    background-image: linear-gradient(45deg,rgb(190, 41, 204),rgb(228, 38, 38));
+    background-color:white  ;
+    padding: 50px 50px 50px 50px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    transition: transform 300ms;
+  
+}
+    
+    #nome, #senha, #email{
+        padding: 0.2em;
+        height: 30px;
+        width: 300px;
+        border: 1px solid rgb(0, 0, 0);
+        box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+        border-radius: 3px;
+        margin-top: 10px;
+        
+    }
+    .campo input[type="text"] .campo input[type="email"] .campo input [type="password"]{
+        background-color: rgb(138, 39, 39);
+        padding: 0.2em;
+        height: 100%;
+        width: 80%;
+        border: 1px solid #59429d;
+        box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+        background: transparent;
+      
+    }
+
+    #botao{
+        width: 130px;
+        height: 40px;
+        background:rgb(255, 255, 255);
+        text-align: center;
+        top: 50%;
+        position:relative;
+        display:inline-block;
+        justify-content: center;
+        align-items:center;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        
+    }
+    #botao:hover{
+        background-color: rgb(231, 224, 224);
+    }
+    
+
+    svg{
+        
+        margin-left: 140px;
+        margin-bottom: 25px;
+    }
+    .face{
+        
+        background-color: white;
+        margin-left: 100px ;
+        align-items: center;
+        display: inline-block;
+    }
+    .face:hover{
+        background-color: rgb(53, 53, 53);
+    }
