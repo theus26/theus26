@@ -16,8 +16,7 @@
   <br>
 
 - 🔭 I’m currently working on  uma empresa como JOVEM APRENDIZ
-- 🌱 I’m currently learni JAVAsCIPT E REACT
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learni JAVASCRIPT E REACT
 - 🤔 I’m looking for help PARA ENCONTRAR UM ESTAGIO OU UM OPORTUNIDADE COM FRONT-END JUNIOR
 - 💬 Ask me about QUALQUER COISA !
 - 📫 How to reach me: theuslipe26@gmail.com
