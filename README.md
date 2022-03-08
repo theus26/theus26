@@ -16,7 +16,7 @@
   <br>
 
 - 🔭 I’m currently working on  uma empresa como JOVEM APRENDIZ
-- 🌱 I’m currently learni JAVASCRIPT E REACT JS
+- 🌱 I’m currently learni JAVASCRIPT, REACT JS, VUE.js.
 - 💬 Ask me about QUALQUER COISA !
 - 📫 How to reach me: theuslipe26@gmail.com
 - 🤔 Estagiario de Desenvolvimento Web 
