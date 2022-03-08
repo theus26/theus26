@@ -17,6 +17,6 @@
 
 - 🔭 I’m currently working on  uma empresa como JOVEM APRENDIZ
 - 🌱 I’m currently learni JAVASCRIPT E REACT JS
-- 🤔 I’m looking for help PARA ENCONTRAR UM ESTAGIO OU UM OPORTUNIDADE COM FRONT-END JUNIOR
+- 🤔 Estagiario de Desenvolvimento Web PGE
 - 💬 Ask me about QUALQUER COISA !
 - 📫 How to reach me: theuslipe26@gmail.com
