@@ -28,6 +28,7 @@
 export default {
   name: "HomeView",
   components: {},
+  
   methods: {
     async input() {
       var inputNome = document.getElementById("txtnome");
