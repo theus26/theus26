@@ -1,4 +1,4 @@
-# Desenvolvedor Front-end e Back-end, Apaixonado por Programar!
+# Desenvolvedor FullStack Júnior, Apaixonado por Programar!
 <div align="center">
   <a href="https://github.com/theus26">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=theus26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
