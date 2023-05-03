@@ -1,9 +1,16 @@
-# Desenvolvedor FullStack Júnior, Apaixonado por Programar!
+#Olá! Eu sou o Matheus Filipe :wave:
+
+## Sobre mim
+Eu sou um desenvolvedor de software com experiência em HTML, CSS, JavaScript, C#, ASP.NET, .NET, Vue.js, React e Vuetify. Atualmente tenho 24 anos e estou sempre buscando aprender mais sobre novas tecnologias e tendências.
+
 <div align="center">
   <a href="https://github.com/theus26">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=theus26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theus26&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  ## Linguagens de progamação
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,6 +23,8 @@
  
 <div> 
 <br>
+  
+  ## Como entrar em contato
 
   <a href="https://www.instagram.com/the_uslipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
