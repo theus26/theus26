@@ -1,7 +1,7 @@
 #Olá! Eu sou o Matheus Filipe :wave:
 
 ## Sobre mim
-Eu sou um desenvolvedor de software com experiência em HTML, CSS, JavaScript, C#, ASP.NET, .NET, SQLServer, Mysql, NodeJs, Vue.js, React e Vuetify. Atualmente tenho 24 anos e estou sempre buscando aprender mais sobre novas tecnologias e tendências.
+Sou um profissional de desenvolvimento de software com experiência sólida em várias linguagens e tecnologias. Minhas principais áreas de expertise incluem C#, .NET, SQL Server, MySQL, HTML, CSS, JavaScript, Vue.js, React.js, Tailwind e Vuetify. Sou apaixonado por criar soluções eficientes e escaláveis, utilizando as melhores práticas de desenvolvimento e buscando constantemente aprender e evoluir minhas habilidades técnicas. Com um histórico comprovado de entrega de projetos de alta qualidade, estou sempre em busca de novos desafios que me permitam aplicar minha experiência e conhecimento para impulsionar o sucesso das organizações.
 
 <div align="center">
   <a href="https://github.com/theus26">
